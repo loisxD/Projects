@@ -1,2 +1,1 @@
-# accenture-data-challenge
-Codes for Accenture Data Challenge 2017
+# Projects for the heart :)
